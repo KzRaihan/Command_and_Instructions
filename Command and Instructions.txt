@@ -1,0 +1,43 @@
+                                            
+  
+                                                       Command and Instructions
+                                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                   
+
+          Command           ||       Function                         ||         Example
+       -------------        =================================         """""""""""""""""""""""""""
+
+ Rule_0    :  clear         ||   To clear the terminal screen.        ||  -> clear
+
+ Rule_1    :  pwd           ||    Present Working directory           ||  -> pwd
+
+ Rule_2    :  cd            ||    Change the current Directory        ||  -> cd dir_name or cd ..
+
+ Rule_2.1  :  cd Raihan     ||    Go to the Raihan directory          ||  -> cd Raihan  (here, Raihan is a directory).
+
+ Rule_2.2  :  cd ..         ||    Go Back the Previous(old) directory ||  -> cd Disktop (here, Disktop is the previous directory).
+
+ Rule_3    :  ls            ||    show and list directory and file    ||  -> ls
+                                          in the current directory  
+ 
+ Rule_4    :  mkdir Kz      ||    Create New(Kz) directory            ||  -> mkdir Kz (here, kz is new directory).  
+
+ Rule_5    :  mkdir Kz      ||    Create New(Kz) directory            ||  -> mkdir Kz (here, kz is new directory). 
+ 
+ Rule_6    :  rmdir Kz      ||    Remove New(Kz) directory            ||  -> rmdir Kz (here, kz directory is Remove). 
+                                        when kz is empty  
+
+ Rule_7    :  touch one.c   ||    Create New(one.c) Files             ||  -> touch file_name with extension (here, one is file and .c is the                                                                                                                              extension of file)
+
+ Rule_8    :  rm one.c      ||    Remove one.c file                   ||  -> rm one.c (one file name .c is the file extension).
+                                                                      ||  -> other eg: rm text.txt(here, file is text and txt is the text extension). 
+
+
+ Rule_9    :  start one.c   ||    Go to one.c file                    ||  -> start text.txt (go to text files and can write something).
+
+
+ Rule_10   :  cat one.c     ||   Concatenate and display file message ||  -> cat one.c (Display internal message in one.c)
+
+
+
+          
+
